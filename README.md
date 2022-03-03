@@ -1,4 +1,7 @@
  Uh, hello!
+ 
+ >:D
+ 
 - 😎 Im a cool guy
 
 🌱 I’m learning coding
